@@ -1,0 +1,207 @@
+.banner-back {
+    padding: 1px;
+}
+
+.header {
+    width: 317px;
+    height: 317px;
+
+    margin-top: 44px;
+    margin-left: 116px;
+    margin-right: 117px;
+}
+
+.main {
+    width: 317px;
+    height: 399px;
+
+    margin-left: 116px;
+    margin-right: 117px;
+    padding: 1px;
+
+    background-color: #1a1b21;
+}
+
+#name {
+    margin-top: 21px;
+    margin-left: 70px;
+    margin-right: 69px;
+
+    font-family: "Inter";
+    font-style: none;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #ffffff;
+}
+
+#post {
+    margin-top: 6.19px;
+    margin-left: 70px;
+    margin-right: 69px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #f3bf99;
+}
+
+#website {
+    margin-top: 8.81px;
+    margin-left: 70px;
+    margin-right: 69px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    text-align: center;
+
+    color: #f5f5f5;
+}
+
+.social-box {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 15px;
+
+    padding: 1px;
+}
+
+#email {
+    display: flex;
+    justify-content: flex-start;
+
+    width: 115px;
+    height: 34px;
+
+    margin-right: 17px;
+
+    background: #ffffff;
+    /* gray/300 */
+
+    border: 1px solid #d1d5db;
+    /* shadow/sm */
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+#linkedin {
+    width: 115px;
+    height: 34px;
+
+    display: flex;
+    justify-content: flex-start;
+
+    background: #5093e2;
+    /* shadow/sm */
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+#email > .social-logo {
+    width: 16px;
+    height: 16px;
+
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-left: 26.5px;
+    margin-right: 8px;
+}
+
+#email > .social-name {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 28.5px;
+}
+
+#linkedin > .social-logo {
+    width: 16px;
+    height: 16px;
+
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-left: 16px;
+    margin-right: 8px;
+}
+
+#linkedin > .social-name {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 18px;
+}
+
+#social-name-email {
+    color: #374151;
+}
+
+#social-name-link {
+    color: #ffffff;
+}
+
+#about-head {
+    margin-top: 33px;
+}
+
+#about-cont {
+    height: 61px;
+    overflow: visible;
+    margin-bottom: 24px;
+}
+
+.head {
+    margin-left: 36px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+
+    color: #f5f5f5;
+}
+
+#int-head {
+    margin-top: 27px;
+}
+
+.cont {
+    margin-left: 36px;
+    margin-right: 34px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* or 15px */
+
+    color: #dcdcdc;
+
+    word-wrap: break-word;
+}
